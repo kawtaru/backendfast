@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from utils import check_text
 from fastapi.middleware.cors import CORSMiddleware
+from main import Checker
 
 
 app = FastAPI()
