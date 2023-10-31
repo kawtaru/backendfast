@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'http://127.0.0.1:8000/check'
+url = 'https://tame-jade-buffalo-kilt.cyclic.app/:3000/check'
 headers = {
     'accept': 'application/json',
     'Content-Type': 'application/json'
