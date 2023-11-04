@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'https://tame-jade-buffalo-kilt.cyclic.app/check'
+url = 'https://backendfast.vercel.app/'
 headers = {
     'accept': 'application/json',
     'Content-Type': 'application/json'
