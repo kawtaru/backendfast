@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'https://backendfast.vercel.app/'
+url = 'https://backendfast.vercel.app/check'
 headers = {
     'accept': 'application/json',
     'Content-Type': 'application/json'
